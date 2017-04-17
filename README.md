@@ -3,7 +3,7 @@ Repo for DSI-4 Project 4 - Mike Salmon, Rowan, and Keith
 
 # Copied over Info from Project 4 Readme 
 
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Kaggle Competition - Starter (End of Day 9/12)
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Kaggle Competition - Starter (Due 4/28/2017)
 
 ## Introduction
 
